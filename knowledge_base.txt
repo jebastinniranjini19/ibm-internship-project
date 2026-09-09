@@ -1,0 +1,63 @@
+ISSUE: Wi-Fi / Internet not working
+Diagnosis: Check whether Wi-Fi is enabled and whether the device is connected to the correct network.
+Troubleshooting steps:
+1. Turn Wi-Fi off and on.
+2. Confirm the correct network is selected.
+3. Restart the router if you have permission to do so.
+4. Restart the laptop.
+5. Forget and reconnect to the Wi-Fi network.
+6. If other devices also have no internet, contact the network administrator/ISP.
+Escalation: Create a support ticket if the problem continues.
+
+ISSUE: Printer not printing
+Diagnosis: Check power, connection, printer status, paper, and default printer selection.
+Troubleshooting steps:
+1. Confirm the printer is powered on.
+2. Check USB or network connection.
+3. Check for paper or visible error messages.
+4. Make sure the correct printer is selected.
+5. Clear stuck print jobs and retry.
+6. Restart the printer and computer.
+Escalation: Create a support ticket if printing still fails.
+
+ISSUE: Computer is slow
+Diagnosis: High resource usage, too many startup applications, or insufficient free storage may cause slow performance.
+Troubleshooting steps:
+1. Restart the computer.
+2. Close applications that are not needed.
+3. Check available storage and free space if necessary.
+4. Disable unnecessary startup applications.
+5. Install approved operating-system updates.
+6. Run the organization's approved security scan.
+Escalation: Contact IT support if the device remains slow.
+
+ISSUE: Bluetooth device not connecting
+Diagnosis: Bluetooth may be disabled, the device may not be discoverable, or an old pairing may be causing a conflict.
+Troubleshooting steps:
+1. Turn Bluetooth off and on.
+2. Confirm the accessory is powered and discoverable.
+3. Remove the old pairing and pair again.
+4. Keep the device close to the computer during pairing.
+5. Restart Bluetooth and the computer.
+Escalation: Create a support ticket if pairing continues to fail.
+
+ISSUE: Application not opening
+Diagnosis: The application may be stuck, outdated, missing dependencies, or blocked by permissions/security policy.
+Troubleshooting steps:
+1. Close the application completely and reopen it.
+2. Restart the computer.
+3. Check for approved application updates.
+4. Check whether other applications open normally.
+5. If the organization provides a repair/reset option, use the approved option.
+6. Do not install unknown software or bypass security controls.
+Escalation: Create a support ticket with the application name and error message.
+
+ISSUE: Keyboard or mouse not working
+Diagnosis: The device may be disconnected, out of battery, or have a driver/connection issue.
+Troubleshooting steps:
+1. Check the cable or wireless receiver.
+2. Replace or recharge batteries if applicable.
+3. Try another approved USB port.
+4. Restart the computer.
+5. Test with another known-working device if available.
+Escalation: Contact IT support if the issue persists.
